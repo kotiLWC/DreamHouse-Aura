@@ -1,0 +1,3 @@
+<aura:component >
+    hi child component<p></p>   
+</aura:component>
